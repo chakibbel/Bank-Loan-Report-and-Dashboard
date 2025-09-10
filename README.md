@@ -23,5 +23,9 @@ The primary goal of this project was to create an interactive and insightful das
 ## Analysis and Visualization:
 The data analysis and visualization were performed using Microsoft Power BI. An additional QC of the results and KPI calculations was completed using SQL queries and Python.
 
+## 📸 Dashboard Preview  
+![summary_screenshot](https://github.com/chakibbel/Bank-Loan-Report-and-Dashboard/blob/main/screenshots/summary_screenshot.png) 
+![overview_screenshot](https://github.com/chakibbel/Bank-Loan-Report-and-Dashboard/blob/main/screenshots/overview_screenshot.png)
+
 ## Outcome:
 The Bank Loan Report dashboard successfully provided a comprehensive view of the bank's lending operations, enabling stakeholders to make informed decisions based on real-time data. The project demonstrated my ability to handle complex datasets, create meaningful visualizations, and provide actionable insights through data analysis.
